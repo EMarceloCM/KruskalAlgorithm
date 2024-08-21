@@ -15,5 +15,5 @@ direcionados?<br>
 	4. Encontre e discuta um artigo científico que empregue o algoritmo de
 Kruskal em um problema de otimização. <br>
   artigo:<br>
-    - https://repositorio.ueg.br/jspui/handle/riueg/3214 <br>
-      https://repositorio.ueg.br/jspui/bitstream/riueg/3214/2/Thainara%20Domiciano%20e%20Silva.pdf
+https://repositorio.ueg.br/jspui/handle/riueg/3214 <br>
+https://repositorio.ueg.br/jspui/bitstream/riueg/3214/2/Thainara%20Domiciano%20e%20Silva.pdf
