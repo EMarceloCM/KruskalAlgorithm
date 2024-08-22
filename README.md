@@ -2,7 +2,7 @@
 Questões: <br>
 	1. Compare os algoritmos de Prim e Kruskal em termos de eficiência e
 casos de uso. Em que situações um pode ser preferido ao outro?<br>
-    R:<br>
+    &nbsp; R:<br>
 	2. Como o algoritmo de Borůvka se compara aos algoritmos de Prim e
 Kruskal para encontrar árvores geradoras mínimas?<br>
     R:<br>
