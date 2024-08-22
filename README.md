@@ -3,7 +3,7 @@ Questões: <br>
 	1. Compare os algoritmos de Prim e Kruskal em termos de eficiência e
 casos de uso. Em que situações um pode ser preferido ao outro?<br>
     &nbsp;&nbsp;&nbsp; R: Eficiência: o algoritmo de Prim possui complexidade de O(v^2), onde 'v' é o número de vértices<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;olgoritmo de Kruskal possui complexidade de O(e*log(e)), onde 'e' é número de arestas<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;olgoritmo de Kruskal possui complexidade de O(e*log(e)), onde 'e' é número de arestas<br>
 	2. Como o algoritmo de Borůvka se compara aos algoritmos de Prim e
 Kruskal para encontrar árvores geradoras mínimas?<br>
     &nbsp;&nbsp;&nbsp; R:<br>
